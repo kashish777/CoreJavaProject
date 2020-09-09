@@ -1,3 +1,5 @@
+package Collections.src;
+
 import java.util.*;
 public class ArrayListExample {
 
