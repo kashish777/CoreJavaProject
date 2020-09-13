@@ -1,3 +1,4 @@
+package multithreadingExamples;
 
 public class Multi2 implements Runnable
 {

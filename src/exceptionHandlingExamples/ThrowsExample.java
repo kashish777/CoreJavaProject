@@ -1,3 +1,4 @@
+package exceptionHandlingExamples;
 
 public class ThrowsExample {
 

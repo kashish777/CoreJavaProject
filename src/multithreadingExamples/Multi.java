@@ -1,3 +1,4 @@
+package multithreadingExamples;
 
 public class Multi extends Thread
 {

@@ -1,4 +1,4 @@
-package Collections.src;
+package arrayList;
 
 import java.util.*;
 public class ArrayListExample {
