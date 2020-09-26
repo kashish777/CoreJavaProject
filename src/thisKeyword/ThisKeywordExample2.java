@@ -1,3 +1,5 @@
+package thisKeyword;
+
 class A
 { 
 	void m()

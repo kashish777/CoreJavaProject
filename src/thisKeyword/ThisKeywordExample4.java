@@ -1,3 +1,5 @@
+package thisKeyword;
+
 class C 
 { 
 	void m(C obj) 
